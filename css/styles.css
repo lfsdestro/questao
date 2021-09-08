@@ -1,0 +1,22 @@
+* {
+    margin: 3px;
+    padding: 2px;
+}
+
+.row {
+    margin: 0 auto;
+}
+
+.resultado_certo {
+    background-color: green;
+    padding: 5px;
+    color: #fff;
+    margin: 5px;
+}
+
+.resultado_errado {
+    background-color: red;
+    color: #fff;
+    padding: 5px;
+    margin: 5px;
+}

@@ -1,0 +1,1 @@
+## Interação de questionário feito com JQuery, bem simples, mas muito massa.. Quando erra a resposta o background fica vermelho na alternativa errada e verde na alternativa certa, se acertar, o background fica verde.
